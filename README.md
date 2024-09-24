@@ -1,9 +1,9 @@
 # RULE_BASED_CHATBOT
 
-/project-directory
-  /templates
-    - index.html
-  /static
-    - style.css
-    - script.js
-  app.py
+CodSoft/
+├── app.py              # Your Flask app
+├── templates/          # Template folder for HTML files
+│   └── index.html      # Your main HTML file
+└── static/             # Optional folder for CSS/JS files
+    └── style.css       # Your CSS file (if applicable)
+
